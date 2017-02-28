@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/joshuasmith9/Itunes/issues"
   },
-  "homepage": "https://github.com/joshuasmith9/Itunes#readme"
+  "homepage": "https://github.com/joshuasmith9/Itunes#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
 }
