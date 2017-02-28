@@ -1,0 +1,20 @@
+{
+  "name": "itunes",
+  "version": "1.0.0",
+  "description": "A demostration of basic angular and http principles",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuasmith9/Itunes.git"
+  },
+  "author": "devmountain and Joshua Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuasmith9/Itunes/issues"
+  },
+  "homepage": "https://github.com/joshuasmith9/Itunes#readme"
+}
